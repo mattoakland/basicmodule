@@ -1,6 +1,6 @@
 <% ui.decorateWith("appui", "standardEmrPage") %>
 
-Basic example module for OpenMRS!
+Basic example module for OpenMRS! hi there.
 
 <% if (context.authenticated) { %>
     And a special hello to you, $context.authenticatedUser.personName.fullName.
